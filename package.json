@@ -1,0 +1,17 @@
+{
+  "name": "mocha-lifecycle",
+  "version": "1.0.0",
+  "description": "Test mocha hooks lifecycle",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "engines": {
+    "node": ">=14.16.1"
+  },
+  "author": "nalon",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.3.2"
+  }
+}
