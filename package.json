@@ -4,7 +4,7 @@
   "description": "Test mocha hooks lifecycle",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "mocha index.js"
   },
   "engines": {
     "node": ">=14.16.1"
